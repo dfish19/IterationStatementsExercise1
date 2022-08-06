@@ -1,0 +1,15 @@
+C:\Users\dfish\Desktop\Repos\IterationStatementExercise1\IterationStatementExercise1\bin\Debug\net6.0\IterationStatementExercise1.exe
+C:\Users\dfish\Desktop\Repos\IterationStatementExercise1\IterationStatementExercise1\bin\Debug\net6.0\IterationStatementExercise1.deps.json
+C:\Users\dfish\Desktop\Repos\IterationStatementExercise1\IterationStatementExercise1\bin\Debug\net6.0\IterationStatementExercise1.runtimeconfig.json
+C:\Users\dfish\Desktop\Repos\IterationStatementExercise1\IterationStatementExercise1\bin\Debug\net6.0\IterationStatementExercise1.dll
+C:\Users\dfish\Desktop\Repos\IterationStatementExercise1\IterationStatementExercise1\bin\Debug\net6.0\IterationStatementExercise1.pdb
+C:\Users\dfish\Desktop\Repos\IterationStatementExercise1\IterationStatementExercise1\obj\Debug\net6.0\IterationStatementExercise1.csproj.AssemblyReference.cache
+C:\Users\dfish\Desktop\Repos\IterationStatementExercise1\IterationStatementExercise1\obj\Debug\net6.0\IterationStatementExercise1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dfish\Desktop\Repos\IterationStatementExercise1\IterationStatementExercise1\obj\Debug\net6.0\IterationStatementExercise1.AssemblyInfoInputs.cache
+C:\Users\dfish\Desktop\Repos\IterationStatementExercise1\IterationStatementExercise1\obj\Debug\net6.0\IterationStatementExercise1.AssemblyInfo.cs
+C:\Users\dfish\Desktop\Repos\IterationStatementExercise1\IterationStatementExercise1\obj\Debug\net6.0\IterationStatementExercise1.csproj.CoreCompileInputs.cache
+C:\Users\dfish\Desktop\Repos\IterationStatementExercise1\IterationStatementExercise1\obj\Debug\net6.0\IterationStatementExercise1.dll
+C:\Users\dfish\Desktop\Repos\IterationStatementExercise1\IterationStatementExercise1\obj\Debug\net6.0\refint\IterationStatementExercise1.dll
+C:\Users\dfish\Desktop\Repos\IterationStatementExercise1\IterationStatementExercise1\obj\Debug\net6.0\IterationStatementExercise1.pdb
+C:\Users\dfish\Desktop\Repos\IterationStatementExercise1\IterationStatementExercise1\obj\Debug\net6.0\IterationStatementExercise1.genruntimeconfig.cache
+C:\Users\dfish\Desktop\Repos\IterationStatementExercise1\IterationStatementExercise1\obj\Debug\net6.0\ref\IterationStatementExercise1.dll
